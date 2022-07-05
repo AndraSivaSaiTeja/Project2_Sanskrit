@@ -1,0 +1,11 @@
+1.To run this code, a library for reading the .xls files has to be downloaded from https://www.libxl.com/download/libxl-win-3.9.4.3.zip .
+Follow the instructions given there to embed the library to Visual Studio(this library is only compatible with Visual studio, not with linux), press ctrl+f5 to run it.
+2.c++ has been used in this project.
+3.Inputs and outputs have been shown in the .jpg pictures , in this same folder
+4. 8th sentence has been intentionally kept grammatically wrong, to test whether the algorithm is able to detect the error or not.
+5.Thank you. 
+
+Team Members
+1) ANDRA SIVA SAI TEJA (TEAM LEADER)
+2) RYAN JORDAN MAWLONG
+3) SHAILENDRA KUMAR
