@@ -1,1 +1,1 @@
-# Project2_Sanskrit
+# Project2_Basic_translator_for_Sanskrit_language
